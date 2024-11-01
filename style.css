@@ -11,7 +11,7 @@ header {
   font-weight: bold;
   font-size: 20px;
 }
-.clac-container {
+.calc-container {
   display: flex;
   flex-direction: column;
   background-color: royalblue;
@@ -28,7 +28,9 @@ header {
   margin-bottom: 10px;
   border-radius: 10px;
   padding: 10px;
-  font-size: 20px;
+  font-size: 25px;
+  display: flex;
+  align-items: center;
 }
 .calc-row button {
   width: 60px;
