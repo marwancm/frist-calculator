@@ -1,2 +1,2 @@
 # frist-calculator
-https://marwancm.github.io/frist-calculator/
+https://calculator-1-swart.vercel.app/
